@@ -8,7 +8,7 @@ This repository contains the spreadsheet-based tool accompanying the article:
 
 ## Overview
 
-The spreadsheet-based tool allows users to explore the environmental and economic impacts of partial transitions in U.S.–China agricultural trade portfolios.
+The spreadsheet-based tool allows users to explore the environmental impacts of partial transitions in U.S.–China agricultural trade portfolios.
 
 Users can modify parameters including:
 
