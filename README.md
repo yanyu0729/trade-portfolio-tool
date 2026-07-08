@@ -32,4 +32,3 @@ The tool estimates resulting changes in:
 If you use this spreadsheet, please cite:
 
 Wang, Y., Gu, B., & Zhang, X. (2026). *Shifting U.S.-China trade from feed to food reduces global agricultural nitrogen loss and greenhouse gas emissions.* Nitrogen Cycling.
-https://doi.org/10.48130/nc-0026-0011 
