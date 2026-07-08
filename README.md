@@ -12,7 +12,7 @@ The spreadsheet-based tool allows users to explore the environmental impacts of 
 
 Users can modify parameters including:
 
-- Percentage of imported feed replaced by animal products
+- Percentage of imported feed crops replaced by animal products
 - Crop nitrogen use efficiency (NUE)
 - Livestock nitrogen use efficiency (NUE)
 - Manure recovery rate 
